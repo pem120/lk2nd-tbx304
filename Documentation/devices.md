@@ -107,6 +107,7 @@
 - Huawei MediaPad T3 8 (kob- l09/l09chn/w09/w09chn) (quirky - see comment in `lk2nd/device/dts/msm8952/msm8917-huawei-kobe.dts`)
 - Leeco s2
 - Lenovo K5 Play (l38011)
+- Lenovo Tab 4 10x (TB-X304x)
 - Lenovo Tab M10 HD (TB-X505X) (requires flashing [minimal DTBO](#minimal-dtb-overlay))
 - Medion Lifetab P10610 (Malata)
 - Motorola Moto E4 (perry) (MSM8917)
